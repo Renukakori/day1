@@ -1,8 +1,8 @@
 # day1
 Introduction to github and license
 ##github
-1.hi
-2.bye
+1.renuka kori
+2.engineering
 
 ##license
 1.MI
