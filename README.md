@@ -5,5 +5,5 @@ Introduction to github and license
 2.engineering
 
 ##license
-1.MI
+1.MIT
 2.BSD-2
